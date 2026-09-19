@@ -128,45 +128,25 @@ graph TD
 ## 🌟 Featured Projects
 
 ```text
-├── 🤖 Securitas AI Support Agent
-│   └── Multi-Agent RAG + Sliding Window Memory
-│       LangGraph + Python + .NET Core
-│
 ├── 🔍 CallWiser AI
 │   └── Natural Language → SQL Pipeline
 │       Guardrail Security Node + PostgreSQL
 │
+├── 🤖 Securitas AI Support Agent
+│   └── Multi-Agent RAG + Sliding Window Memory
+│       LangGraph + Python + .NET Core
+│
 ├── ⚖️ LegalMind AI
 │   └── AI-powered Legal Support Assistant
-│       RAG + Topic Classification + Dynamic Fallback + Flutter
-│
-├── 🌐 Personal AI Assistant
-│   └── Vector Database Powered Personal AI Agent
-│       RAG + LLM + Web Integration
-│
-├── 🫁 Pneumothorax AI Agent
-│   └── Clinical Literature-based RAG Assistant
-│       LangGraph + RAG + Hallucination Control
-│
-├── 💬 SEZENCİK AI
-│   └── Turkish Transformer-based Conversational AI
-│       Memory + NLP + Deep Learning
+│       RAG + Topic Classification + Flutter
 │
 ├── 🎯 UAV Detection & Tracking
 │   └── Real-Time UAV Detection System
 │       YOLOv8x + DeepSORT + Kalman Filter
 │
-├── 🩻 COVID-19 Detection System
-│   └── Chest X-Ray Classification
-│       ResNet + Transfer Learning
-│
-├── 📱 E-Yazılım
-│   └── Programming Education Platform
-│       Java + Android + Firebase
-│
-└── ❤️ SMA Donation Platform
-    └── Transparent Donation Management Platform
-        Web + Database + User Management
+└── 🚀 LearnFlow
+    └── Interactive Programming Education Platform
+        React + ASP.NET Core + SQL Server
 ```
 
 ---
@@ -324,128 +304,6 @@ SQL
                     │ React / Flutter / APIs   │
                     └──────────────────────────┘
 ```
-
----
-
-## 📱 Current Development Focus
-
-### 🚀 LearnFlow
-
-An interactive programming education platform designed to make programming learning more structured and practical.
-
-**Current MVP:**
-
-```text
-Python Learning
-      ↓
-Interactive Lessons
-      ↓
-Code Examples
-      ↓
-Quizzes
-      ↓
-Progress Tracking
-      ↓
-User Authentication
-```
-
-**Planned Languages:**
-
-`Python` `Java` `C#` `JavaScript` `SQL`
-
-**Technology Direction:**
-
-`React` `ASP.NET Core` `.NET 8` `SQL Server` `Entity Framework Core`
-
----
-
-## 🫁 Pneumothorax AI Agent
-
-An AI assistant designed around pneumothorax-related medical literature and document retrieval.
-
-### Architecture
-
-```text
-User Question
-      ↓
-LangGraph Agent
-      ↓
-Query Processing
-      ↓
-Vector Retrieval
-      ↓
-Clinical Literature
-      ↓
-Context Validation
-      ↓
-Hallucination Control
-      ↓
-LLM Response
-```
-
-**Technologies:**
-
-`Python` `FastAPI` `LangGraph` `RAG` `ChromaDB` `OpenAI`
-
----
-
-## 🎯 UAV Detection & Tracking
-
-A real-time computer vision system developed for the **TEKNOFEST Fighting UAV Competition**.
-
-### Pipeline
-
-```text
-Camera
-  ↓
-YOLOv8x
-  ↓
-Object Detection
-  ↓
-DeepSORT
-  ↓
-Kalman Filter
-  ↓
-Multi-Object Tracking
-  ↓
-Stable Target Coordinates
-```
-
-**Technologies:**
-
-`Python` `YOLOv8x` `DeepSORT` `Kalman Filter` `OpenCV`
-
----
-
-## ⚖️ LegalMind AI
-
-An AI-powered legal assistance application developed with a focus on Turkish legal documents.
-
-### Core Architecture
-
-```text
-User Question
-      ↓
-Topic Classification
-      ↓
-Legal Domain Detection
-      ↓
-RAG Retrieval
-      ↓
-Relevant Legal Documents
-      ↓
-LLM
-      ↓
-Context-Aware Response
-```
-
-**Legal Areas:**
-
-`İş Hukuku` `Aile Hukuku` `Kira` `Borçlar` `Tüketici` `Medeni Hukuk`
-
-**Technologies:**
-
-`Flutter` `Firebase` `Python` `ChromaDB` `OpenAI` `RAG`
 
 ---
 
