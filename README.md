@@ -1,23 +1,37 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,9,20,24&height=200&section=header&text=%C4%B0zzettin%20Mert%20%C3%96ZYA%C4%9ELI&fontSize=42&fontAlignY=36&animation=twinkling&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Multi-Agent%20Systems%20%26%20Full-Stack&descAlignY=56&descSize=17&fontColor=ffffff" width="100%" />
+ <div align="center">
 
-  <a href="https://mertozyagli.com.tr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=850&height=100&lines=%F0%9F%A4%96+Building+Autonomous+Multi-Agent+Workflows+with+LangGraph;%F0%9F%9B%A1%EF%B8%8F+Designing+Guardrail-Protected+NL-to-SQL+Pipelines;%E2%9A%A1+Enterprise+RAG%2C+Transformer+Chatbots+%26+Computer+Vision;%F0%9F%9A%80+AI+%7C+.NET+%7C+FastAPI+%7C+React+%7C+Flutter" alt="Dynamic Header" />
+  <!-- Animasyonlu Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,9,20,24&height=210&section=header&text=İzzettin%20Mert%20ÖZYAĞLI&fontSize=38&fontAlignY=38&animation=twinkling&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Multi-Agent%20Systems%20%26%20Full-Stack&descAlignY=58&descSize=16&fontColor=ffffff" width="100%" alt="Header Banner" />
+
+  <br/><br/>
+
+  <!-- Daktilo Animasyonlu Başlık -->
+  <a href="https://mertozyagli.com.tr" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=850&height=100&lines=%F0%9F%A4%96+Building+Autonomous+Multi-Agent+Workflows+with+LangGraph;%F0%9F%9B%A1%EF%B8%8F+Designing+Guardrail-Protected+NL-to-SQL+Pipelines;%E2%9A%A1+Enterprise+RAG%2C+Transformer+Chatbots+%26+Computer+Vision;%F0%9F%9A%80+AI+%7C+.NET+%7C+FastAPI+%7C+React+%7C+Flutter" alt="Dynamic Header" />
   </a>
 
+  <br/><br/>
+
+  <!-- İletişim, Profil & Canlı Ziyaretçi Rozetleri -->
   <p align="center">
     <a href="https://mertozyagli.com.tr" target="_blank">
       <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
+    &nbsp;
     <a href="mailto:mertozyagli0@gmail.com">
       <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    &nbsp;
     <a href="https://github.com/izzet7979" target="_blank">
       <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    &nbsp;
     <img src="https://komarev.com/ghpvc/?username=izzet7979&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
+
+  <br/>
 
 </div>
 
