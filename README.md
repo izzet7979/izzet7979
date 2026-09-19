@@ -1,9 +1,7 @@
 <div align="center">
 
- <div align="center">
-
-  <!-- Animasyonlu Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,9,20,24&height=210&section=header&text=İzzettin%20Mert%20ÖZYAĞLI&fontSize=38&fontAlignY=38&animation=twinkling&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Multi-Agent%20Systems%20%26%20Full-Stack&descAlignY=58&descSize=16&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <!-- Header Banner (GitHub Proxy Uyumlu) -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=1,9,20,24&height=220&section=header&text=Izzettin%20Mert%20OZYAGLI&fontSize=40&fontAlignY=40&animation=twinkling&desc=Software%20Engineer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Multi-Agent%20Systems&descAlignY=60&descSize=16&fontColor=ffffff" width="100%" alt="Header Banner" />
 
   <br/><br/>
 
@@ -14,7 +12,7 @@
 
   <br/><br/>
 
-  <!-- İletişim, Profil & Canlı Ziyaretçi Rozetleri -->
+  <!-- Rozetler -->
   <p align="center">
     <a href="https://mertozyagli.com.tr" target="_blank">
       <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
@@ -35,7 +33,7 @@
 
 </div>
 
----
+> 💡 *Looking for unlisted or enterprise repositories? Feel free to reach out via [email](mailto:mertozyagli0@gmail.com) for codebase access or project walkthroughs.*
 
 ## 🧬 About Me
 
@@ -56,7 +54,6 @@ My main area of expertise is **Artificial Intelligence**, especially:
 I also develop modern **web, backend and mobile applications**, combining AI systems with technologies such as **.NET, FastAPI, React and Flutter**.
 
 I enjoy turning research-oriented AI concepts into practical, end-to-end applications.
-
 ---
 
 ## 🧭 AI System Architecture
@@ -141,28 +138,45 @@ graph TD
 
 ## 🌟 Featured Projects
 
-```text
-├── 🔍 CallWiser AI
-│   └── Natural Language → SQL Pipeline
-│       Guardrail Security Node + PostgreSQL
-│
-├── 🤖 Securitas AI Support Agent
-│   └── Multi-Agent RAG + Sliding Window Memory
-│       LangGraph + Python + .NET Core
-│
-├── ⚖️ LegalMind AI
-│   └── AI-powered Legal Support Assistant
-│       RAG + Topic Classification + Flutter
-│
-├── 🎯 UAV Detection & Tracking
-│   └── Real-Time UAV Detection System
-│       YOLOv8x + DeepSORT + Kalman Filter
-│
-└── 🚀 LearnFlow
-    └── Interactive Programming Education Platform
-        React + ASP.NET Core + SQL Server
-```
+<details open>
+  <summary><strong>🔍 CallWiser AI — Natural Language to SQL Pipeline</strong></summary>
+  <blockquote>
+    Doğal dil girdilerini dinamik SQL sorgularına dönüştürürken AST tabanlı özel Guardrail düğümleriyle riskli komutları engelleyen güvenli sorgulama motoru.<br/>
+    <code>Python</code> • <code>LangGraph</code> • <code>PostgreSQL</code> • <code>Guardrail Nodes</code>
+  </blockquote>
+</details>
 
+<details>
+  <summary><strong>🤖 Securitas AI Support Agent — Multi-Agent Enterprise RAG</strong></summary>
+  <blockquote>
+    IT destek biletleme süreçlerini otomatikleştiren, Sliding-Window bellek yapısına ve çok ajanlı durum grafiğine (StateGraph) sahip kurumsal asistan.<br/>
+    <code>LangGraph</code> • <code>FastAPI</code> • <code>.NET Core Web API</code> • <code>ChromaDB</code>
+  </blockquote>
+</details>
+
+<details>
+  <summary><strong>⚖️ LegalMind AI — AI-Powered Legal Assistant</strong></summary>
+  <blockquote>
+    Mevzuat taraması, konu bazlı yönlendirme (topic routing) ve dinamik fallback stratejileri sunan mobil uyumlu hukuk asistanı.<br/>
+    <code>RAG</code> • <code>ChromaDB</code> • <code>Topic Classification</code> • <code>Flutter</code>
+  </blockquote>
+</details>
+
+<details>
+  <summary><strong>🎯 UAV Detection & Tracking — Autonomous Vision Engine</strong></summary>
+  <blockquote>
+    Hava araçlarının gerçek zamanlı tespiti, kimliklendirilmesi ve gürültülü sensör verilerinde Kalman filtresiyle kararlı takibi.<br/>
+    <code>YOLOv8x</code> • <code>DeepSORT</code> • <code>Kalman Filter</code> • <code>OpenCV</code>
+  </blockquote>
+</details>
+
+<details>
+  <summary><strong>🚀 LearnFlow — Interactive Programming Platform</strong></summary>
+  <blockquote>
+    Clean Architecture prensiplerine göre yapılandırılmış, kurumsal backend servisleri ile zengin web arayüzünü birleştiren eğitim platformu.<br/>
+    <code>ASP.NET Core Web API</code> • <code>React</code> • <code>Entity Framework Core</code> • <code>SQL Server</code>
+  </blockquote>
+</details>
 ---
 
 ## 🤖 AI & Machine Learning
@@ -286,37 +300,59 @@ SQL
 
 ## 🧠 AI Engineering Stack
 
-```text
-                    ┌──────────────────────────┐
-                    │      AI APPLICATIONS     │
-                    └────────────┬─────────────┘
-                                 │
-                    ┌────────────▼─────────────┐
-                    │     Multi-Agent Layer    │
-                    │   LangGraph / LangChain  │
-                    └────────────┬─────────────┘
-                                 │
-             ┌───────────────────┼───────────────────┐
-             │                   │                   │
-             ▼                   ▼                   ▼
-        ┌─────────┐        ┌──────────┐        ┌──────────┐
-        │   RAG   │        │ NL-to-SQL│        │ Vision AI│
-        └────┬────┘        └─────┬────┘        └────┬─────┘
-             │                   │                  │
-             ▼                   ▼                  ▼
-        ChromaDB             Guardrails       YOLO / OpenCV
-             │                   │                  │
-             └───────────────────┼──────────────────┘
-                                 │
-                    ┌────────────▼─────────────┐
-                    │       Backend Layer      │
-                    │ .NET / FastAPI / Flask   │
-                    └────────────┬─────────────┘
-                                 │
-                    ┌────────────▼─────────────┐
-                    │     Web & Mobile Apps    │
-                    │ React / Flutter / APIs   │
-                    └──────────────────────────┘
+```mermaid
+graph TD
+    subgraph L1["🎯 Application Presentation Layer"]
+        APP["AI Applications"]
+        UI["Web & Mobile Clients: React | Flutter | APIs"]
+    end
+
+    subgraph L2["🤖 Orchestration & Multi-Agent Layer"]
+        AGENT["LangGraph & LangChain Workflows<br/>(StateGraph, Memory, Dynamic Routing)"]
+    end
+
+    subgraph L3["⚡ Core Intelligence Engines"]
+        RAG["Advanced RAG Engine"]
+        SQL["NL-to-SQL Pipeline"]
+        CV["Vision AI Engine"]
+    end
+
+    subgraph L4["💾 Data, Safety & Inference Nodes"]
+        CHROMA[("ChromaDB Vector Store")]
+        GUARD{"SQL Guardrail Node<br/>(Safety & AST Validation)"}
+        YOLO["YOLOv8x + OpenCV<br/>(Real-Time Inference)"]
+    end
+
+    subgraph L5["⚙️ Backend & API Integration"]
+        BACKEND["High-Performance Services<br/>.NET Core Web API | FastAPI"]
+    end
+
+    %% Akış Bağlantıları
+    APP --> AGENT
+    
+    AGENT -->|Document Retrieval| RAG
+    AGENT -->|Structured Querying| SQL
+    AGENT -->|Visual Perception| CV
+
+    RAG --> CHROMA
+    SQL --> GUARD
+    CV --> YOLO
+
+    CHROMA --> BACKEND
+    GUARD -->|Validated Exec| BACKEND
+    YOLO --> BACKEND
+
+    BACKEND --> UI
+
+    %% Cyberpunk / Neon Stil Tanımlamaları
+    classDef default fill:#0d1117,stroke:#00f5ff,stroke-width:1.5px,color:#ffffff;
+    classDef highlight fill:#161b22,stroke:#79c0ff,stroke-width:2px,color:#58a6ff;
+    classDef guard fill:#2d1520,stroke:#ff007f,stroke-width:2px,color:#ff7b72;
+    classDef nodeBox fill:#0b0e14,stroke:#30363d,stroke-width:1px,color:#c9d1d9;
+
+    class AGENT,BACKEND highlight;
+    class GUARD guard;
+    class L1,L2,L3,L4,L5 nodeBox;
 ```
 
 ---
@@ -399,23 +435,17 @@ Computer vision and artificial intelligence focused project development.
 
 ---
 
-## 📈 Engineering Activity
+#### 📈 Engineering Proficiency & Activity
 
-```text
-┌────────────────────────────────────────────────────┐
-│                 AI ENGINEERING                     │
-├────────────────────────────────────────────────────┤
-│                                                    │
-│  Multi-Agent Systems       ████████████████████    │
-│  RAG & Vector Search       ███████████████████     │
-│  Deep Learning             █████████████████       │
-│  Computer Vision           ████████████████        │
-│  Backend Development       ███████████████████     │
-│  Mobile Development        ███████████████         │
-│  Full-Stack Development    █████████████████       │
-│                                                    │
-└────────────────────────────────────────────────────┘
-```
+| Domain / Architecture | Proficiency Bar | Focus Tech Stack |
+| :--- | :--- | :--- |
+| **Multi-Agent Workflows** | ![98%](https://geps.dev/progress/98?dangerColor=00f5ff&warningColor=00f5ff&color=00f5ff) | `LangGraph` `StateGraph` `Agents` |
+| **Enterprise RAG & Search** | ![94%](https://geps.dev/progress/94?dangerColor=00f5ff&warningColor=00f5ff&color=00f5ff) | `ChromaDB` `Hybrid Search` `NL-to-SQL` |
+| **Backend & Microservices** | ![92%](https://geps.dev/progress/92?dangerColor=58a6ff&warningColor=58a6ff&color=58a6ff) | `.NET Core Web API` `FastAPI` |
+| **Computer Vision** | ![85%](https://geps.dev/progress/85?dangerColor=58a6ff&warningColor=58a6ff&color=58a6ff) | `YOLOv8x` `DeepSORT` `OpenCV` |
+| **Deep Learning & NLP** | ![84%](https://geps.dev/progress/84?dangerColor=bc8cff&warningColor=bc8cff&color=bc8cff) | `PyTorch` `Transformers` `LLMs` |
+| **Full-Stack Engineering** | ![80%](https://geps.dev/progress/80?dangerColor=bc8cff&warningColor=bc8cff&color=bc8cff) | `React` `PostgreSQL` `REST APIs` |
+| **Mobile Systems** | ![76%](https://geps.dev/progress/76?dangerColor=3fb950&warningColor=3fb950&color=3fb950) | `Flutter` `Dart` `State Mgmt` |
 
 ---
 
