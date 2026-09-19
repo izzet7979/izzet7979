@@ -1,5 +1,4 @@
 
-
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,9,20,24&height=200&section=header&text=%C4%B0zzettin%20Mert%20%C3%96ZYA%C4%9ELI&fontSize=42&fontAlignY=36&animation=twinkling&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Multi-Agent%20Systems%20%26%20Full-Stack&descAlignY=56&descSize=17&fontColor=ffffff" width="100%" />
@@ -23,7 +22,7 @@
 
 </div>
 
-
+---
 
 ## 🧬 About Me
 
@@ -45,11 +44,11 @@ I also develop modern **web, backend and mobile applications**, combining AI sys
 
 I enjoy turning research-oriented AI concepts into practical, end-to-end applications.
 
-
+---
 
 ## 🧭 AI System Architecture
 
-
+```mermaid
 graph TD
     A([💬 Natural Language Input]) --> B{🧭 StateGraph Router}
 
@@ -77,9 +76,10 @@ graph TD
     classDef alert fill:#2d1520,stroke:#ff007f,stroke-width:2px,color:#fff;
 
     class F,G alert;
+```
+````
 
-
-
+---
 
 ## 🎓 Education
 
@@ -103,7 +103,7 @@ graph TD
 
 **Ranking:** `15,841`
 
-
+---
 
 ## 💼 Experience
 
@@ -125,11 +125,11 @@ graph TD
 
 `Python` `LangChain` `LangGraph` `OpenAI` `PostgreSQL` `RAG` `NL-to-SQL`
 
-
+---
 
 # 🌟 Featured Projects
 
-
+```text
 ├── 🤖 Securitas AI Support Agent
 │   └── Multi-Agent RAG + Sliding Window Memory
 │       LangGraph + Python + .NET Core
@@ -169,9 +169,9 @@ graph TD
 └── ❤️ SMA Donation Platform
     └── Transparent Donation Management Platform
         Web + Database + User Management
+```
 
-
-
+---
 
 ## 🤖 AI & Machine Learning
 
@@ -224,7 +224,7 @@ graph TD
 - Turkish NLP
 - Conversational AI
 
-
+---
 
 # 💻 Software Development
 
@@ -260,7 +260,7 @@ graph TD
 
 ### Programming Languages
 
-
+```text
 Python
 C#
 Java
@@ -270,9 +270,9 @@ PHP
 Dart
 JavaScript
 SQL
+```
 
-
-
+---
 
 # 🛠️ Tools & Technologies
 
@@ -290,11 +290,11 @@ SQL
 
 </p>
 
-
+---
 
 # 🧠 AI Engineering Stack
 
-
+```text
                     ┌──────────────────────────┐
                     │      AI APPLICATIONS     │
                     └────────────┬─────────────┘
@@ -325,9 +325,9 @@ SQL
                     │     Web & Mobile Apps    │
                     │ React / Flutter / APIs   │
                     └──────────────────────────┘
+```
 
-
-
+---
 
 # 📱 Current Development Focus
 
@@ -337,7 +337,7 @@ An interactive programming education platform designed to make programming learn
 
 **Current MVP:**
 
-
+```text
 Python Learning
       ↓
 Interactive Lessons
@@ -349,7 +349,7 @@ Quizzes
 Progress Tracking
       ↓
 User Authentication
-
+```
 
 **Planned Languages:**
 
@@ -359,7 +359,7 @@ User Authentication
 
 `React` `ASP.NET Core` `.NET 8` `SQL Server` `Entity Framework Core`
 
-
+---
 
 # 🫁 Pneumothorax AI Agent
 
@@ -367,7 +367,7 @@ An AI assistant designed around pneumothorax-related medical literature and docu
 
 ### Architecture
 
-
+```text
 User Question
       ↓
 LangGraph Agent
@@ -383,13 +383,13 @@ Context Validation
 Hallucination Control
       ↓
 LLM Response
-
+```
 
 **Technologies:**
 
 `Python` `FastAPI` `LangGraph` `RAG` `ChromaDB` `OpenAI`
 
-
+---
 
 # 🎯 UAV Detection & Tracking
 
@@ -397,7 +397,7 @@ A real-time computer vision system developed for the **TEKNOFEST Fighting UAV Co
 
 ### Pipeline
 
-
+```text
 Camera
   ↓
 YOLOv8x
@@ -411,13 +411,13 @@ Kalman Filter
 Multi-Object Tracking
   ↓
 Stable Target Coordinates
-
+```
 
 **Technologies:**
 
 `Python` `YOLOv8x` `DeepSORT` `Kalman Filter` `OpenCV`
 
-
+---
 
 # ⚖️ LegalMind AI
 
@@ -425,7 +425,7 @@ An AI-powered legal assistance application developed with a focus on Turkish leg
 
 ### Core Architecture
 
-
+```text
 User Question
       ↓
 Topic Classification
@@ -439,7 +439,7 @@ Relevant Legal Documents
 LLM
       ↓
 Context-Aware Response
-
+```
 
 **Legal Areas:**
 
@@ -449,7 +449,7 @@ Context-Aware Response
 
 `Flutter` `Firebase` `Python` `ChromaDB` `OpenAI` `RAG`
 
-
+---
 
 # 📜 Certifications
 
@@ -483,7 +483,7 @@ Context-Aware Response
 
 - Introduction to Cybersecurity
 
-
+---
 
 # 🏆 Achievements
 
@@ -499,7 +499,7 @@ AI-powered UAV detection and tracking systems.
 
 Computer vision and artificial intelligence focused project development.
 
-
+---
 
 # 📊 GitHub Statistics
 
@@ -517,7 +517,7 @@ Computer vision and artificial intelligence focused project development.
 
 </p>
 
-
+---
 
 # 🐍 Contribution Snake
 
@@ -527,11 +527,11 @@ Computer vision and artificial intelligence focused project development.
 
 </p>
 
-
+---
 
 # 📈 Engineering Activity
 
-
+```text
 ┌────────────────────────────────────────────────────┐
 │                 AI ENGINEERING                     │
 ├────────────────────────────────────────────────────┤
@@ -545,9 +545,9 @@ Computer vision and artificial intelligence focused project development.
 │  Full-Stack Development    █████████████████      │
 │                                                    │
 └────────────────────────────────────────────────────┘
+```
 
-
-
+---
 
 # 🌐 Connect With Me
 
@@ -567,11 +567,14 @@ Computer vision and artificial intelligence focused project development.
 
 </p>
 
+---
 
 # ⚡ Engineering Philosophy
 
+```text
 "Build systems that are not only intelligent,
 but also reliable, secure and production-ready."
+```
 
 I focus on combining:
 
@@ -579,6 +582,7 @@ I focus on combining:
 
 to build systems that can move from an idea to a real-world application.
 
+---
 
 <div align="center">
 
@@ -593,3 +597,4 @@ Turning ideas into products.**
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,9,20,24&height=120&section=footer" width="100%" />
 
 </div>
+```
