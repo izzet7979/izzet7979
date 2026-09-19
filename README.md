@@ -1,6 +1,4 @@
-Tabii. Aşağıdaki içeriği **tek parça halinde doğrudan `README.md` dosyana yapıştırabilirsin**. İçeriği de verdiğin bilgilerdeki güncel durumla uyumlu olacak şekilde düzenledim.
 
-````markdown
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,9,20,24&height=200&section=header&text=%C4%B0zzettin%20Mert%20%C3%96ZYA%C4%9ELI&fontSize=42&fontAlignY=36&animation=twinkling&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Multi-Agent%20Systems%20%26%20Full-Stack&descAlignY=56&descSize=17&fontColor=ffffff" width="100%" />
