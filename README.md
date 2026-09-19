@@ -1,4 +1,3 @@
-Tabii. Aşağıdaki içeriği **tek parça halinde doğrudan `README.md` dosyana yapıştırabilirsin**. İçeriği de verdiğin bilgilerdeki güncel durumla uyumlu olacak şekilde düzenledim.
 
 ````markdown
 <div align="center">
