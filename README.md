@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,9,20,24&height=200&section=header&text=%C4%B0zzettin%20Mert%20%C3%96ZYA%C4%9ELI&fontSize=42&fontAlignY=36&animation=twinkling&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Multi-Agent%20Systems%20%26%20Full-Stack&descAlignY=56&descSize=17&fontColor=ffffff" width="100%" />
@@ -50,34 +49,33 @@ I enjoy turning research-oriented AI concepts into practical, end-to-end applica
 
 ```mermaid
 graph TD
-    A([💬 Natural Language Input]) --> B{🧭 StateGraph Router}
+    A([Natural Language Input]) --> B{StateGraph Router}
 
-    B -->|Knowledge / Documents| C[📚 Advanced RAG / ChromaDB]
-    B -->|Relational Data| D[⚙️ NL-to-SQL Pipeline]
-    B -->|Image / Video| E[👁️ YOLOv8x + DeepSORT]
+    B -->|Knowledge / Documents| C[Advanced RAG / ChromaDB]
+    B -->|Relational Data| D[NL-to-SQL Pipeline]
+    B -->|Image / Video| E[YOLOv8x + DeepSORT]
 
-    D --> F{🛡️ SQL Guardrail}
-    F -->|Unsafe Query| G[🚫 Block & Safe Recovery]
-    F -->|Validated Query| H[(🗄️ PostgreSQL / MSSQL)]
+    D --> F{SQL Guardrail}
+    F -->|Unsafe Query| G[Block & Safe Recovery]
+    F -->|Validated Query| H[(PostgreSQL / MSSQL)]
 
-    C --> I[🔍 Retrieval Confidence]
-    I --> J[🧠 Context Synthesis]
+    C --> I[Retrieval Confidence]
+    I --> J[Context Synthesis]
 
     H --> J
-    E --> K[🎯 Multi-Object Tracking]
+    E --> K[Multi-Object Tracking]
 
-    J --> L([🚀 AI Application Layer])
+    J --> L([AI Application Layer])
     K --> L
 
-    L --> M[⚡ FastAPI / .NET Web API]
-    L --> N[📱 Flutter / React]
+    L --> M[FastAPI / .NET Web API]
+    L --> N[Flutter / React]
 
     classDef default fill:#0d1117,stroke:#00f5ff,stroke-width:1px,color:#fff;
     classDef alert fill:#2d1520,stroke:#ff007f,stroke-width:2px,color:#fff;
 
     class F,G alert;
 ```
-````
 
 ---
 
@@ -127,7 +125,7 @@ graph TD
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
 ```text
 ├── 🤖 Securitas AI Support Agent
@@ -226,7 +224,7 @@ graph TD
 
 ---
 
-# 💻 Software Development
+## 💻 Software Development
 
 ### Backend
 
@@ -274,7 +272,7 @@ SQL
 
 ---
 
-# 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 <p align="center">
 
@@ -292,7 +290,7 @@ SQL
 
 ---
 
-# 🧠 AI Engineering Stack
+## 🧠 AI Engineering Stack
 
 ```text
                     ┌──────────────────────────┐
@@ -329,7 +327,7 @@ SQL
 
 ---
 
-# 📱 Current Development Focus
+## 📱 Current Development Focus
 
 ### 🚀 LearnFlow
 
@@ -361,7 +359,7 @@ User Authentication
 
 ---
 
-# 🫁 Pneumothorax AI Agent
+## 🫁 Pneumothorax AI Agent
 
 An AI assistant designed around pneumothorax-related medical literature and document retrieval.
 
@@ -391,7 +389,7 @@ LLM Response
 
 ---
 
-# 🎯 UAV Detection & Tracking
+## 🎯 UAV Detection & Tracking
 
 A real-time computer vision system developed for the **TEKNOFEST Fighting UAV Competition**.
 
@@ -419,7 +417,7 @@ Stable Target Coordinates
 
 ---
 
-# ⚖️ LegalMind AI
+## ⚖️ LegalMind AI
 
 An AI-powered legal assistance application developed with a focus on Turkish legal documents.
 
@@ -451,7 +449,7 @@ Context-Aware Response
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
 ### Turkcell Geleceği Yazanlar
 
@@ -485,7 +483,7 @@ Context-Aware Response
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 ### 🛩️ TEKNOFEST 2025
 
@@ -501,7 +499,7 @@ Computer vision and artificial intelligence focused project development.
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -519,7 +517,7 @@ Computer vision and artificial intelligence focused project development.
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 
@@ -529,7 +527,7 @@ Computer vision and artificial intelligence focused project development.
 
 ---
 
-# 📈 Engineering Activity
+## 📈 Engineering Activity
 
 ```text
 ┌────────────────────────────────────────────────────┐
@@ -538,18 +536,18 @@ Computer vision and artificial intelligence focused project development.
 │                                                    │
 │  Multi-Agent Systems       ████████████████████    │
 │  RAG & Vector Search       ███████████████████     │
-│  Deep Learning             █████████████████      │
-│  Computer Vision           ████████████████       │
-│  Backend Development       ███████████████████    │
-│  Mobile Development        ███████████████        │
-│  Full-Stack Development    █████████████████      │
+│  Deep Learning             █████████████████       │
+│  Computer Vision           ████████████████        │
+│  Backend Development       ███████████████████     │
+│  Mobile Development        ███████████████         │
+│  Full-Stack Development    █████████████████       │
 │                                                    │
 └────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -569,7 +567,7 @@ Computer vision and artificial intelligence focused project development.
 
 ---
 
-# ⚡ Engineering Philosophy
+## ⚡ Engineering Philosophy
 
 ```text
 "Build systems that are not only intelligent,
@@ -597,4 +595,3 @@ Turning ideas into products.**
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,9,20,24&height=120&section=footer" width="100%" />
 
 </div>
-```
